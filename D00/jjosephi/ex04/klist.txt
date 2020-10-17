@@ -1,0 +1,6 @@
+Credentials cache: API:32858
+        Principal: jjosephi@42.US.ORG
+
+  Issued                Expires               Principal
+Jul  8 18:27:45 2019  Jul  9 04:27:45 2019  krbtgt/42.US.ORG@42.US.ORG
+Jul  8 18:27:46 2019  Jul  9 04:27:45 2019  ldap/ldap-master.42.us.org@42.US.ORG
